@@ -1,0 +1,5 @@
+Screenplay related:
+http://www.thucydides.info/docs/serenity/#_serenity_and_the_journey_pattern
+http://thucydides.info/docs/articles/ui-interactions.html
+http://thucydides.info/docs/articles/semantic-exceptions.html
+http://thucydides.info/docs/articles/soft-asserts.html
